@@ -1,0 +1,48 @@
+== Kol. 4 (sesja poprawkowa) == 
+
+=== zadanie 1 ===
+
+Medianę sekwencji liczb można zdefiniować za pomocą następującego kodu:
+
+    def median(x):
+        xx = sorted(x)
+        if not xx:
+            return None
+        if len(xx) == 1:
+            return xx[0]
+        if len(xx) == 2:
+            return sum(xx)/2.
+        else:
+            return median(xx[1:-1])
+
+(kod ten służy wprowadzeniu definicji mediany, nie jest to optymalna ani nawet
+szczególnie dobra implementacja obliczania mediany w praktyce!)
+
+Niech T będzie tabelą, zawierającą (między innymi) kolumnę "X float not null".
+Napisać zapytanie SQL zwracające medianę wartości z kolumny X.
+Napisać program do testowania tego zapytania, tworzący tabelę z 10 000 liczb
+losowych (w pamięci) i porównujący medianę obliczoną za pomocą zapytania SQL 
+z wynikiem rachunku w Pythonie na tych samych liczbach (ulepszając algorytm 
+z powyższej definicji).
+
+=== zadanie 2 ===
+
+Posługując się gotową bazą SQLite zawartą w pliku pl_lud.db napisać program,
+który:
+    * w odpowiedzi na argument 'q1' wypisuje listę nazw województw, po jednym na
+    linijkę, i w tej samej linijce dla każdego z nich podaje liczbę powiatów,
+    należących do danego województwa;
+    * w odpowiedzi na argument 'q2' wypisuje listę nazw 10 powiatów o największym
+    zaludnieniu w kraju, obok jego nazwy wypisując liczbę ludności i nazwę
+    województwa, do którego należy;
+    * w odpowiedzi na argument 'q3' wypisuje średnią i odchylenie standardowe
+    liczby ludności obliczone dla wszystkich powiatów w kraju.
+
+=== zadanie 3 ===
+
+Napisać program, który na podstawie pliku tekstowego kodowanego w UTF-8
+stworzy indeks słów występujących w tym pliku, w postaci tabeli SQLite zawierającej
+kolumny "slowo" (tekst słowa), "wiersz" (nr wiersza w którym wystąpiło) i
+"kolumna" (pozycja w wierszu).
+Sprawdzić działanie tego programu na podstawie pliku z tekstem 1. księgi Pana
+Tadeusza.
