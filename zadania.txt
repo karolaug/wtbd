@@ -1,0 +1,38 @@
+Zadanie 1
+
+Plik `/work/staff/rjb/available' zawiera dane o pakietach
+aktualnie dostępnych w dystrybucji Ubuntu Linux, w łatwym do
+rozszyfrowania formacie tekstowym. Dane składają się z rekordów,
+opisujących poszczególne pakiety, z których każdy złożony jest ze
+zbioru słów kluczowych i odpowiadających im wartości.
+
+Proszę napisać program, który produkuje następujące zestawienie:
+* całkowita liczba dostępnych pakietów
+* liczba różnych "sekcji" (wartości pola Section)
+* liczba pakietów w każdej sekcji
+* liczba pakietów o każdej wartości pola Priority
+* całkowity rozmiar wszystkich pakietów po instalacji w kB
+  (pole Installed-Size)
+
+Zadanie 2
+
+Na podstawie tego samego pliku, co w zad. 1 stworzyć i wypełnić
+danymi bazę SQLite z tabelą PACKAGES, zawierającą kolumny
+Package, Version, Section, Priority, Installed_Size.
+
+Zadanie 3
+
+Napisać zapytania SQL zwracające te same informacje, co w zad. 1
+
+Proszę umieścić rozwiązania wszystkich 3 punktów w jednym pliku,
+o nazwie postaci `Nazwisko'.py, w taki sposób, by uruchomienie 
+go z argumentem z1, z2 lub z3 skutkowało odpowiednio:
+
+* dla z1: wypisaniem wymienionych informacji
+* dla z2: stworzeniem bazy zgodnie z opisem
+* dla z3: wypisaniem na ekran kolejno pięciu zapytań SQL; dla
+maksimum punktów: wykonaniem każdego z tych zapytań i wypisaniem
+po jego treści, zwracanego wyniku.
+
+
+
