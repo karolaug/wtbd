@@ -1,0 +1,26 @@
+1. Napisać program, który na podstawie pliku ''Warszawa.csv''
+sporządzi alfabetyczny wykaz nazw warszawskich ulic, obok każdej
+nazwy wypisując liczbę przypisanych do niej (oraz do mieszczących
+się przy niej urzędów pocztowych, instytucji itd.) różnych kodów
+pocztowych.
+
+2. Standardowy format logów serwera WWW opisany jest na stronie
+http://httpd.apache.org/docs/2.0/logs.html#accesslog, podtytuł
+"Combined Log Format". Napisać program, który tworzy bazę SQLite
+z tabelą, której każdy wiersz odpowiada jednemu rekordowi z tego
+pliku, rozdzielonemu na pola (pole opisujące żądanie należy
+rozdzielić na polecenie - GET, POST, etc. oraz adres - url
+zasobu), oraz pozwalający na wprowadzenie do bazy danych z
+jednego lub więcej plików tego kształtu. Zastosować do pliku
+''samorzad.access.log''.
+
+3. Korzystając z tabeli utworzonej w zad. 2, napisać zapytania SQL 
+odpowiadające na następujące pytanie:
+* ile wynosił całkowity transfer danych określonego dnia (w zależności
+od daty);
+* jakie strony (adresy) nieistniejące w serwisie były najczęściej przedmiotem
+żądań, i ile razy (kod odpowiedzi 404);
+* spod jakich adresów IP najczęściej pochodziły żądania nieistniejących
+stron (404)
+
+
