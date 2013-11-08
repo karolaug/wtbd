@@ -1,0 +1,395 @@
+##WOJ,Dolnośląskie                  
+bolesławiecki                 ,89100
+dzierżoniowski                ,103213
+głogowski                     ,87761
+górowski                      ,36256
+jaworski                      ,51568
+jeleniogórski                 ,63923
+kamiennogórski                ,45357
+kłodzki                       ,162755
+legnicki                      ,53783
+lubański                      ,55899
+lubiński                      ,105022
+lwówecki                      ,47083
+milicki                       ,37087
+oleśnicki                     ,104378
+oławski                       ,72931
+polkowicki                    ,61730
+strzeliński                   ,43861
+średzki                       ,50484
+świdnicki                     ,159209
+trzebnicki                    ,79934
+wałbrzyski                    ,178138
+wołowski                      ,47347
+wrocławski                    ,114151
+ząbkowicki                    ,68175
+zgorzelecki                   ,92405
+złotoryjski                   ,45379
+m. Jelenia Góra               ,84023
+m. Legnica                    ,103892
+m. Wrocław                    ,632996
+##WOJ,Kujawsko-pomorskie            
+aleksandrowski                ,55326
+brodnicki                     ,75831
+bydgoski                      ,104624
+chełmiński                    ,51503
+golubsko-dobrzyński ,45316
+grudziądzki                   ,38807
+inowrocławski                 ,163787
+lipnowski                     ,66068
+mogileński                    ,46883
+nakielski                     ,85537
+radziejowski                  ,41598
+rypiński                      ,43843
+sępoleński                    ,41016
+świecki                       ,97835
+toruński                      ,96646
+tucholski                     ,47687
+wąbrzeski                     ,34743
+włocławski                    ,85254
+żniński                       ,70079
+m. Bydgoszcz                  ,356177
+m. Grudziądz                  ,98757
+m. Toruń                      ,205312
+m. Włocławek                  ,116914
+##WOJ,Lubelskie                     
+bialski                       ,112538
+biłgorajski                   ,103005
+chełmski                      ,78530
+hrubieszowski                 ,66521
+janowski                      ,46960
+krasnostawski                 ,67357
+kraśnicki                     ,98223
+lubartowski                   ,89610
+lubelski                      ,145826
+łęczyński                     ,57178
+łukowski                      ,107773
+opolski                       ,61813
+parczewski                    ,35769
+puławski                      ,115584
+radzyński                     ,60612
+rycki                         ,57919
+świdnicki                     ,72333
+tomaszowski                   ,86137
+włodawski                     ,39316
+zamojski                      ,108899
+m. Biała Podlaska             ,57984
+m. Chełm                      ,67324
+m. Lublin                     ,348450
+m. Zamość                     ,66234
+##WOJ,Lubuskie                      
+gorzowski                     ,68065
+krośnieński                   ,56041
+międzyrzecki                  ,58153
+nowosolski                    ,86996
+słubicki                      ,46516
+strzelecko-drezdenecki        ,49757
+sulęciński                    ,35409
+świebodziński                 ,55988
+zielonogórski                 ,92160
+żagański                      ,81412
+żarski                        ,98266
+wschowski                     ,39168
+m. Gorzów Wielkopolski        ,125394
+m. Zielona Góra               ,117699
+##WOJ,Łódzkie                       
+bełchatowski                  ,113076
+kutnowski                     ,101279
+łaski                         ,50874
+łęczycki                      ,52113
+łowicki                       ,80878
+łódzki wschodni               ,67398
+opoczyński                    ,78268
+pabianicki                    ,119012
+pajęczański                   ,52531
+piotrkowski                   ,90624
+poddębicki                    ,41562
+radomszczański                ,116815
+rawski                        ,48898
+sieradzki                     ,119550
+skierniewicki                 ,37639
+tomaszowski                   ,119742
+wieluński                     ,77650
+wieruszowski                  ,42166
+zduńskowolski                 ,67605
+zgierski                      ,162527
+brzeziński                    ,30625
+m. Łódź                       ,737098
+m. Piotrków Trybunalski       ,77383
+m. Skierniewice               ,49044
+##WOJ,Małopolskie                   
+bocheński                     ,102592
+brzeski                       ,91643
+chrzanowski                   ,127540
+dąbrowski                     ,58631
+gorlicki                      ,107148
+krakowski                     ,256260
+limanowski                    ,125108
+miechowski                    ,49977
+myślenicki                    ,120903
+nowosądecki                   ,204092
+nowotarski                    ,185917
+olkuski                       ,113810
+oświęcimski                   ,153705
+proszowicki                   ,43406
+suski                         ,83006
+tarnowski                     ,196810
+tatrzański                    ,65542
+wadowicki                     ,156488
+wielicki                      ,112161
+m. Kraków                     ,756183
+m. Nowy Sącz                  ,84537
+m. Tarnów                     ,114635
+##WOJ,Mazowieckie                   
+białobrzeski                  ,33706
+ciechanowski                  ,89970
+garwoliński                   ,107061
+gostyniński                   ,46572
+grodziski                     ,83268
+grójecki                      ,97161
+kozienicki                    ,61079
+legionowski                   ,105520
+lipski                        ,35784
+łosicki                       ,31937
+makowski                      ,45924
+miński                        ,145327
+mławski                       ,72645
+nowodworski                   ,76855
+ostrołęcki                    ,84761
+ostrowski                     ,74365
+otwocki                       ,120774
+piaseczyński                  ,161160
+płocki                        ,108033
+płoński                       ,87054
+pruszkowski                   ,151832
+przasnyski                    ,52252
+przysuski                     ,42737
+pułtuski                      ,50946
+radomski                      ,147793
+siedlecki                     ,80701
+sierpecki                     ,52786
+sochaczewski                  ,84110
+sokołowski                    ,55463
+szydłowiecki                  ,39806
+warszawski zachodni           ,106794
+węgrowski                     ,66932
+wołomiński                    ,217323
+wyszkowski                    ,72551
+zwoleński                     ,36741
+żuromiński                    ,39500
+żyrardowski                   ,75631
+m. Ostrołęka                  ,53710
+m. Płock                      ,126061
+m. Radom                      ,222496
+m. Siedlce                    ,77392
+m. st. Warszawa               ,1720398
+##WOJ,Opolskie                      
+brzeski                       ,92002
+głubczycki                    ,49091
+kędzierzyńsko-kozielski       ,99881
+kluczborski                   ,68574
+krapkowicki                   ,66539
+namysłowski                   ,43826
+nyski                         ,143165
+oleski                        ,67000
+opolski                       ,135313
+prudnicki                     ,58509
+strzelecki                    ,78975
+m. Opole                      ,125710
+##WOJ,Podkarpackie                  
+bieszczadzki                  ,21990
+brzozowski                    ,65274
+dębicki                       ,133517
+jarosławski                   ,121433
+jasielski                     ,114628
+kolbuszowski                  ,61594
+krośnieński                   ,111194
+leżajski                      ,68985
+lubaczowski                   ,56681
+łańcucki                      ,78656
+mielecki                      ,134045
+niżański                      ,66909
+przemyski                     ,71244
+przeworski                    ,78655
+ropczycko-sędziszowski        ,72008
+rzeszowski                    ,161104
+sanocki                       ,94905
+stalowowolski                 ,107470
+strzyżowski                   ,61897
+tarnobrzeski                  ,53517
+leski                         ,26658
+m. Krosno                     ,47471
+m. Przemyśl                   ,66229
+m. Rzeszów                    ,178227
+m. Tarnobrzeg                 ,49214
+##WOJ,Podlaskie                     
+augustowski                   ,58704
+białostocki                   ,140550
+bielski                       ,58091
+grajewski                     ,49207
+hajnowski                     ,45838
+kolneński                     ,38850
+łomżyński                     ,51054
+moniecki                      ,41991
+sejneński                     ,20934
+siemiatycki                   ,46883
+sokólski                      ,70062
+suwalski                      ,35248
+wysokomazowiecki              ,58700
+zambrowski                    ,44271
+m. Białystok                  ,295198
+m. Łomża                      ,63221
+m. Suwałki                    ,69527
+##WOJ,Pomorskie                     
+bytowski                      ,76168
+chojnicki                     ,93847
+człuchowski                   ,56700
+gdański                       ,95710
+kartuski                      ,118087
+kościerski                    ,68738
+kwidzyński                    ,82042
+lęborski                      ,64088
+malborski                     ,62948
+nowodworski                   ,35700
+pucki                         ,77947
+słupski                       ,93640
+starogardzki                  ,124646
+tczewski                      ,113781
+wejherowski                   ,195622
+sztumski                      ,41568
+m. Gdańsk                     ,456967
+m. Gdynia                     ,247324
+m. Słupsk                     ,96655
+m. Sopot                      ,38141
+##WOJ,Śląskie                       
+będziński                     ,150912
+bielski                       ,156848
+cieszyński                    ,173678
+częstochowski                 ,134379
+gliwicki                      ,114406
+kłobucki                      ,85071
+lubliniecki                   ,76758
+mikołowski                    ,93353
+myszkowski                    ,71474
+pszczyński                    ,106993
+raciborski                    ,110483
+rybnicki                      ,74888
+tarnogórski                   ,137917
+bieruńsko-lędziński           ,57134
+wodzisławski                  ,156332
+zawierciański                 ,122209
+żywiecki                      ,151241
+m. Bielsko-Biała              ,175008
+m. Bytom                      ,181617
+m. Chorzów                    ,112697
+m. Częstochowa                ,238042
+m. Dąbrowa Górnicza           ,127431
+m. Gliwice                    ,195472
+m. Jastrzębie-Zdrój           ,92462
+m. Jaworzno                   ,94807
+m. Katowice                   ,306826
+m. Mysłowice                  ,74865
+m. Piekary Śląskie            ,58268
+m. Ruda Śląska                ,142950
+m. Rybnik                     ,141410
+m. Siemianowice Śląskie       ,70291
+m. Sosnowiec                  ,217638
+m. Świętochłowice             ,53798
+m. Tychy                      ,129386
+m. Zabrze                     ,186913
+m. Żory                       ,61925
+##WOJ,Świętokrzyskie                
+buski                         ,72917
+jędrzejowski                  ,88357
+kazimierski                   ,34828
+kielecki                      ,202753
+konecki                       ,82679
+opatowski                     ,55114
+ostrowiecki                   ,114025
+pińczowski                    ,40945
+sandomierski                  ,80147
+skarżyski                     ,77876
+starachowicki                 ,92982
+staszowski                    ,73125
+włoszczowski                  ,46462
+m. Kielce                     ,203804
+##WOJ,Warmińsko-mazurskie           
+bartoszycki                   ,59873
+braniewski                    ,42633
+działdowski                   ,65199
+elbląski                      ,56504
+ełcki                         ,86650
+giżycki                       ,56491
+iławski                       ,90599
+kętrzyński                    ,64552
+lidzbarski                    ,42359
+mrągowski                     ,50113
+nidzicki                      ,33260
+nowomiejski                   ,43843
+olecki                        ,34066
+olsztyński                    ,118063
+ostródzki                     ,104411
+piski                         ,56993
+szczycieński                  ,69368
+gołdapski                     ,26545
+węgorzewski                   ,23207
+m. Elbląg                     ,126049
+m. Olsztyn                    ,176463
+##WOJ,Wielkopolskie                 
+chodzieski                    ,47519
+czarnkowsko-trzcianecki       ,87086
+gnieźnieński                  ,142285
+gostyński                     ,76164
+grodziski                     ,50109
+jarociński                    ,70973
+kaliski                       ,81388
+kępiński                      ,56048
+kolski                        ,88162
+koniński                      ,126465
+kościański                    ,78457
+krotoszyński                  ,77471
+leszczyński                   ,52194
+międzychodzki                 ,36704
+nowotomyski                   ,73090
+obornicki                     ,57430
+ostrowski                     ,159641
+ostrzeszowski                 ,55047
+pilski                        ,137723
+pleszewski                    ,62563
+poznański                     ,327110
+rawicki                       ,60056
+słupecki                      ,58436
+szamotulski                   ,87875
+średzki                       ,55794
+śremski                       ,59468
+turecki                       ,83707
+wągrowiecki                   ,68757
+wolsztyński                   ,55853
+wrzesiński                    ,75125
+złotowski                     ,68791
+m. Kalisz                     ,106664
+m. Konin                      ,79212
+m. Leszno                     ,64432
+m. Poznań                     ,551627
+##WOJ,Zachodniopomorskie            
+białogardzki                  ,48193
+choszczeński                  ,49574
+drawski                       ,57353
+goleniowski                   ,80305
+gryficki                      ,60569
+gryfiński                     ,82727
+kamieński                     ,47672
+kołobrzeski                   ,77244
+koszaliński                   ,64411
+myśliborski                   ,66972
+policki                       ,70380
+pyrzycki                      ,39774
+sławieński                    ,57251
+stargardzki                   ,119306
+szczecinecki                  ,76900
+świdwiński                    ,48205
+wałecki                       ,54023
+łobeski                       ,37900
+m. Koszalin                   ,107948
+m. Szczecin                   ,405606
+m. Świnoujście                ,40759

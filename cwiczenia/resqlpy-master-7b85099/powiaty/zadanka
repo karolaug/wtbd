@@ -1,0 +1,44 @@
+Napisać program który wypisze "fakty", czyli wielkości wraz z
+jednostkami (np. "11 mV") występujące w tekście. Załóżmy, że liczby to
+np. 11, 11.5, .11, a jednostki to sekwencje liter a - z (małych i
+wielkich).
+
+Napisać funkcję "dla humanisty", która zamieni w tekście wszystkie
+sekwencje typu "11 miliwoltów", czyli
+  <liczba> <odstęp> <przedrostek> <jednostka>
+na "11 mV", gdzie <liczba> to liczba zmiennoprzecinkowa z kropką,
+<przedrostek> to mili, mikro, kilo, mega, natomiast jednostka to wolt,
+amper lub om.
+
+Napisać funkcję, która zamieni kropki w liczba "zmiennoprzecinkowych"
+na przecinki. 
+
+Napisac program "dla redaktora", który zamieni wypisane słownie
+procenty, np. "11 proc." na zwyczajne "11%".
+
+
+
+Podać przykład który kasuje tabelę w wyrażeniu 
+  SELECT powiat, populacja FROM powiaty WHERE powiat = '%s';
+
+Obliczyć średnią populację powiatu.
+
+Obliczyć medianę populacji powiatu.
+(W pierwszej wersji można zignorować problem parzystej liczby powiatów
+i zawsze wziąć populację powiatu będącego najbliżej środka w
+posortowanej liście, lub jednego z dwóch takich powiatów.
+
+W ulepszonej wersji zadania należy zastosować porawny wzór -- średnią
+wartości dwóch wartości najbliższych połowy -- w przypadku parzystej
+liczby powiatów.)
+
+Obliczyć wariancję populacji powiatów.
+W = <(n - <n>)^2>
+
+Wypisać powiat o największej populacji i jego populację.
+Napisać rozwiązanie w postaci wywołania SQL i w postacji programu w
+Pythonie z wywołaniem SQL.
+
+Wypisać województwo o największej populacji i jego populację.
+Napisać rozwiązanie w postaci wywołania SQL i w postacji programu w
+Pythonie z wywołaniem SQL.

@@ -1,0 +1,12 @@
+	 Szczecin Główny 				06:11 		RE 5801
+	 Szczecin Gumieńce 		06:16 		06:17 		
+	 Tantow(Gr) 						
+	 Tantow 		06:29 		06:30 		
+	 Petershagen(Uckerm) 		06:35 		06:36 		
+	 Casekow 		06:39 		06:40 		
+	 Schönow(Angerm) 		06:44 		06:44 		
+	 Passow(Uckermark) 		06:51 		06:51 		
+	 Angermünde 		07:07 		07:10 		
+	 Eberswalde Hbf 		07:25 		07:26 		
+	 Bernau(b Berlin) 		07:41 		07:42 		
+	 Berlin Gesundbrunnen 		07:56 			

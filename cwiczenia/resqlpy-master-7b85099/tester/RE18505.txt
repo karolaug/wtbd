@@ -1,0 +1,36 @@
+	 Stralsund 				05:02 		RE 18505
+	 Zarrendorf 		05:08 		05:09 		
+	 Elmenhorst 		05:12 		05:13 		
+	 Wittenhagen 		05:16 		05:16 		
+	 Grimmen 		05:22 		05:23 		
+	 Rakow 		05:33 		05:34 		
+	 Demmin 		05:45 		05:46 		
+	 Utzedel 		05:50 		05:51 		
+	 Sternfeld 		05:55 		06:00 		
+	 Gnevkow 		06:04 		06:04 		
+	 Altentreptow 		06:14 		06:15 		
+	 Neubrandenburg 		06:28 		06:30 		
+	 Burg Stargard(Meckl) 		06:36 		06:37 		
+	 Cammin(Meckl) 		06:43 		06:43 		
+	 Blankensee(Meckl) 		06:47 		06:47 		
+	 Neustrelitz Hbf 		06:57 		07:01 		
+	 Fürstenberg(Havel) 		07:13 		07:14 		
+	 Gransee 		07:26 		07:27 		
+	 Löwenberg(Mark) 		07:35 		07:36 		
+	 Oranienburg 		07:49 		07:50 		
+	 Berlin Gesundbrunnen 		08:10 		08:11 		
+	 Berlin Hbf (tief) 		08:14 		08:17 		
+	 Berlin Potsdamer Platz 		08:20 		08:20 		
+	 Berlin Südkreuz 		08:24 		08:25 		
+	 Berlin-Lichterfelde Ost 		08:29 		08:29 		
+	 Ludwigsfelde 		08:37 		08:38 		
+	 Thyrow 		08:42 		08:42 		
+	 Trebbin 		08:45 		08:46 		
+	 Woltersdorf(Luckenw) 		08:52 		08:53 		
+	 Luckenwalde 		08:56 		08:57 		
+	 Jüterbog 		09:04 		09:05 		
+	 Oehna 		09:11 		09:12 		
+	 Linda(Elster) 		09:18 		09:19 		
+	 Holzdorf(Elster) 		09:25 		09:26 		
+	 Herzberg(Elster) 		09:36 		09:36 		
+	 Falkenberg(Elster) 		09:46 				

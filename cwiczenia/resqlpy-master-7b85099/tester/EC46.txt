@@ -1,0 +1,13 @@
+	 Warszawa Wschodnia 				06:43 		EC 46
+	 Warszawa Centralna 		06:50 		06:55 		
+	 Warszawa Zachodnia 		06:59 		07:00 		
+	 Kutno 		08:04 		08:05 		
+	 Konin 		08:41 		08:42 		
+	 Poznań Główny 		09:28 		09:31 		
+	 Zbąszynek 		10:11 		10:11 		
+	 Świebodzin 		10:23 		10:24 		
+	 Rzepin 		10:51 		10:54 		
+	 Frankfurt(Oder)(Gr) 						
+	 Frankfurt(Oder) 		11:14 		11:17 		
+	 Berlin Ostbf 		12:03 		12:06 		
+	 Berlin Hbf 		12:12 		

@@ -1,0 +1,57 @@
+Wyrażenia regularne
+===================
+
+znaki -- a b c d ... X Y Z ą ę ö ü α β γ ... Σ
+           { } , !
+metaznaki -- . * ? + [ ] ( ) |
+           ^ $
+           \
+
+Grupy (...) i grupy anonimowe (?: ...).
+
+Grupy nazwane: (?P<nazwa> ...)
+
+Znaczniki początku, końca i odstępu: ^, $, \b, \s
+
+Predykaty: (?=...) (?(id)yes|no) -- można usunąć "dużą" alteratywę w
+wyrażenia na liczby z eksponensem.
+
+pydoc re
+
+Właściwości -- Jak można napisać wyrażenie rgularne przyjmujące słowa
+w dowolnym języku?
+
+Własności unicode: trudne do zastąpienia, należy się spodziewać
+włączenia modułu regex do pythona 3.4.
+\p{L} -- litery, czyli znaki Unicode o własności "Letter"
+>>> regex.findall('\p{L}', '„dąb Dębowy ąęöüαβγ”')
+['d', 'ą', 'b', 'D', 'ę', 'b', 'o', 'w', 'y', 'ą', 'ę', 'ö', 'ü', 'α', 'β', 'γ']
+
+match()
+find()
+findall()
+compile()
+
+Przykłady:
+~/git/git: git grep '\bconnect\b'
+~/python/kolej: sed -i -r 's/^\w+\s//' *.info
+~/eeg/svarog: git log --grep='\bperl\b' -p --stat
+
+Structured Query Language
+=========================
+
+Funkcje proste i agregujące.
+
+http://www.postgresql.org/docs/9.1/static/sql-select.html
+
+Dlaczego warto cyzelować zapytanie SQL zamiast wczytać tabelę
+i obliczyć w programie?
+
+Kiedy należy używać '?'?
+http://xkcd.com/327/
+
+Python DB-API
+=============
+
+http://www.python.org/dev/peps/pep-0249/
+

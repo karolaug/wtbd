@@ -1,0 +1,21 @@
+Mamy plan przejazdu pociągu w postaci sekwencji linijek
+  <przyjazd> <odstęp> <odjazd> <odstęp> <stacja>
+gdzie przyjazd i odjazd są w postaci HH:MM,
+a stacja może zawierać litery i spacje i nawiasy i myślniki.
+Plany dla poszczególnych pociągów są zapisane w osobnych plikach.
+Oznaczenie pociągu jest zawarte w nazwie pliku (np. RE12345.info).
+
+Napisz program 'rozklady.py', który:
+- z argumentem 'create' stworzy bazę do przechowywania danych o rozkładach
+- z argumentami 'register' <rozkład-1> <rozkład-2> ... wprowadzi
+  pociągi do bazy, wykorzystując informacje o rozkładzie zapisane w
+  pliku i nazwę pociągu zawartą w nazwie pliku.
+- z argumentem 'waits' <nazwa-pociągu>
+  wypisze ile czasu pociąg spędza stojąc na stacjach.
+- z argumentem 'odjazdy' <nazwa-stacji>
+  wypisze odjazdy z danej stacji posortowane według czasu.
+- z argumentem 'spotkania' <pociąg-1> wypisze stacje i numery pociągów
+  stojące na stacji w tym samym czasie co <pociąg-1>.
+- z argumentem 'połączenie' <pociąg-1> wypisze przyjazd i odjazd na
+  każdą stacje na trasie pociągu i wypisze pociągi odjeżdzające w czasie
+  dwóch godzin z danej stacji.

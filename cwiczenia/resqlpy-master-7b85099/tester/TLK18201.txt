@@ -1,0 +1,19 @@
+	 Warszawa Wschodnia 				22:37 		TLK18201
+	 Warszawa Centralna 		22:45 		22:55 		
+	 Warszawa Zachodnia 		22:59 		23:02 		
+	 Sochaczew 		23:36 		23:37 		
+	 Łowicz Główny 		23:53 		23:54 		
+	 Kutno 		00:20 		00:21 		
+	 Koło 		00:51 		00:52 		
+	 Konin 		01:10 		01:11 		
+	 Słupca 		01:27 		01:28 		
+	 Września 		01:46 		01:47 		
+	 Poznań Główny 		02:42 		02:53 		
+	 Szamotuły 		03:28 		03:28 		
+	 Wronki 		03:45 		03:46 		
+	 Krzyż 		04:14 		04:15 		
+	 Dobiegniew 		04:31 		04:31 		
+	 Choszczno 		04:50 		04:51 		
+	 Stargard Szczeciński 		05:15 		05:16 		
+	 Szczecin Dąbie 		05:34 		05:35 		
+	 Szczecin Główny 		05:51 				
